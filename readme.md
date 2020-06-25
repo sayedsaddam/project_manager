@@ -1,2 +1,2 @@
-# project_manager
- Learning the Laravel framework
+# Project Manager
+Learning the Laravel framework.
